@@ -63,7 +63,7 @@
 
 
 ### [15. Symbolic links](./15-symbolic_link_permissions)
-* Write a script that changes the owner and the group owner of the file _hello to betty and holberton respectively.
+* Write a script that changes the owner and the group owner of the file _hello to betty
 
 
 ### [16. If only](./16-if_only )
@@ -73,8 +73,3 @@
 ### [17. Star Wars](./100-Star_Wars)
 * Write a script that will play the StarWars IV episode in the terminal.
 
-
-### [18. RTFM](./101-man_holberton)
-* Create a man page that looks exactly like this one and passes all checks.
-
----
